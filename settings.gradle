@@ -7,6 +7,6 @@
  * in the user guide at https://docs.gradle.org/4.10/userguide/multi_project_builds.html
  */
 
-rootProject.name = 'p-zhengshitech-commons'
-include 'zhengshitech-commons'
+rootProject.name = 'p-zhengshitech'
+include 'commons'
 
